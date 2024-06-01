@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab10</string>
+    <string name="email_address">Enter your email address</string>
+    <string name="password">Enter your password</string>
+    <string name="new_user_account">New User Account</string>
+    <string name="user_login">User Login</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="enter_your_country">Enter your country</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="create">Create</string>
+    <string name="go_to_your_portal">Go to your portal</string>
+    <string name="your_account_has_been_created_successfully">Your account has been created successfully</string>
+    <string name="home_interface">Home Interface!</string>
+    <string name="services">Services</string>
+</resources>
